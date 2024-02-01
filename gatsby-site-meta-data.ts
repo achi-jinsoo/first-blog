@@ -2,10 +2,10 @@ export default {
   /**
    * basic Information
    */
-  title: `jeong-min.com`,
-  description: `개발자 단민`,
+  title: `aidenhanblog.com`,
+  description: `개발자 진수`,
   language: `ko`,
-  siteUrl: `https://jeong-min.com/`,
+  siteUrl: `https://aidenhanblog.com/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
 
   /**
@@ -13,7 +13,7 @@ export default {
    */
   comments: {
     utterances: {
-      repo: ``, //`danmin20/danmin-gatsby-blog`,
+      repo: `achi-jinsoo/utterance_widjet`, //`danmin20/danmin-gatsby-blog`,
     },
   },
 
@@ -21,16 +21,16 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `이정민`,
-    nickname: `단민`,
-    stack: ['Frontend', 'React', 'Typescript'],
+    name: `한진수`,
+    nickname: `진수`,
+    stack: ['Frontend', 'React', 'Html/Css'],
     bio: {
-      email: `ljm991108@gmail.com`,
+      email: `enesparchic@naver.com`,
       residence: 'Seoul, South Korea',
-      bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
+      bachelorDegree: 'Gachon Univ. Fashion-Disign (2014.03-2022.08)',
     },
     social: {
-      github: `https://github.com/danmin20`,
+      github: `https://github.com/achi-jinsoo`,
       linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
       resume: `https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
     },
@@ -45,12 +45,16 @@ export default {
    */
   featured: [
     {
-      title: 'category1',
-      category: 'featured-category1',
+      title: '개발, 늦었다고 생각할 때가...',
+      category: 'featured-develop',
     },
     {
-      title: 'category2',
+      title: 'Tech Review',
       category: 'featured-category2',
+    },
+    {
+      title: 'I love it.',
+      category: 'featured-category3',
     },
   ],
 
@@ -60,26 +64,26 @@ export default {
   timestamps: [
     {
       category: 'Career',
-      date: '2022.01.04 - NOW',
-      en: 'A Corp.',
-      kr: 'A 회사',
-      info: 'A 팀',
+      date: '2020.08.04 - NOW',
+      en: 'gredit',
+      kr: '(주)그래딧',
+      info: 'Web Publisher',
       link: '',
     },
     {
       category: 'Career',
-      date: '2021.01.04 - 2022.01.04',
-      en: 'B Corp.',
-      kr: 'B 회사',
-      info: 'B 팀',
+      date: '2020.01.04 - NOW',
+      en: 'WETWET',
+      kr: '웨트웨트',
+      info: 'Shopping Mall - aiden Made',
       link: '',
     },
     {
       category: 'Activity',
-      date: '2023.07 - NOW',
-      en: 'Community',
-      kr: '커뮤니티',
-      info: 'IT 커뮤니티',
+      date: '2023.09 - 2024,02',
+      en: 'EZEN Computer Academy',
+      kr: '이젠 컴퓨터 아카데미',
+      info: 'UI/UX Web, App design(figma) & Front-End(react.js) 과정 수료',
       link: '',
     },
   ],
@@ -91,12 +95,12 @@ export default {
     {
       title: 'Portfolio',
       description: '포트폴리오',
-      techStack: ['React', 'Next.js', 'Typescript'],
-      thumbnailUrl: '', // Path to your in the 'assets' folder
+      techStack: ['Html/Css', 'Javascript', 'Jquery'],
+      thumbnailUrl: `/port_1.jpg`, // Path to your in the 'assets' folder
       links: {
         post: '',
-        github: '',
-        demo: '',
+        github: 'https://github.com/achi-jinsoo/portfolid24',
+        demo: 'http://aidenhan.com',
         googlePlay: '',
         appStore: '',
       },
