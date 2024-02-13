@@ -66,7 +66,7 @@ export default {
       date: '2020.08.04 - NOW',
       en: 'gredit',
       kr: '(주)그래딧',
-      info: 'Web Publisher',
+      info: 'Web Designer',
       link: '',
     },
     {

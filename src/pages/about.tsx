@@ -57,7 +57,6 @@ export const pageQuery = graphql`
           }
           social {
             github
-            linkedIn
             resume
           }
           dropdown {
