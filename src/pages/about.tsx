@@ -57,7 +57,10 @@ export const pageQuery = graphql`
           }
           social {
             github
+<<<<<<< HEAD
             linkedIn
+=======
+>>>>>>> 7b2dc3f (first commit)
             resume
           }
           dropdown {
