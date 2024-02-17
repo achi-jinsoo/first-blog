@@ -1,8 +1,8 @@
 ---
 emoji: 👩🏻‍💻
 title: 'Iphone15를 기다리며'
-date: '2020-10-30'
-categories: featured-category2 category3
+date: '2024-01-30'
+categories: featured-category2
 ---
 
 ## 예시 글입니다.
