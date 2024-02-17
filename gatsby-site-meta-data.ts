@@ -21,8 +21,8 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `한진수`,
-    nickname: `진수`,
+    name: `한진수수`,
+    nickname: `진수수`,
     stack: ['Frontend', 'React', 'Html/Css'],
     bio: {
       email: `enesparchic@naver.com`,
